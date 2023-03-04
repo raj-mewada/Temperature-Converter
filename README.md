@@ -7,7 +7,7 @@ A temperature converter helps convert the temperature between Fahrenheit and Cel
 In this application, you can convert the temperature from Celsius to Fahrenheit and vice-versa.
 
 ## Made with
-|HTML|CSS|Javascript|BootStrap|
+|HTML|CSS|Javascript|Bootstrap|
 |---|---|---|---|
 
 ## Link
